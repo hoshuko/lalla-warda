@@ -98,5 +98,6 @@ Forma parte de **Escaparates en movimiento**, una serie de webs animadas al desp
 - **[Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/README.es.md)**: La web animada de una carnicería artesanal: el despiece del vacuno explicado pieza a pieza.
 - **[Tafat](https://github.com/hoshuko/tafat/blob/main/README.es.md)**: La web de un equipo de mujeres que limpia casas en la costa de Cabilia: al desplazarte, una rasqueta limpia el cristal.
 - **[Atelier Nacre](https://github.com/hoshuko/atelier-nacre/blob/main/README.es.md)**: La web de un estudio de uñas en Burdeos: una manicura desmontada capa a capa, un probador de color y reservas en línea.
+- **[Tiziri](https://github.com/hoshuko/tiziri/blob/main/README.es.md)**: El armario de una tienda de ropa en línea: cada prenda, fotografiada en la tienda, la lleva un maniquí de madera que cobra vida.
 
 Portafolio: <https://hoshuko.github.io/es.html> · YouTube: <https://www.youtube.com/@Hosh-uko>

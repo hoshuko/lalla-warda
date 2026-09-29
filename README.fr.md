@@ -98,5 +98,6 @@ Cette maquette fait partie de **Vitrines en mouvement**, une série de sites ani
 - **[Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/README.fr.md)**: Le site vitrine animé d’une boucherie artisanale : la découpe du bœuf expliquée pièce par pièce.
 - **[Tafat](https://github.com/hoshuko/tafat/blob/main/README.fr.md)**: Le site d’une équipe de femmes qui fait le ménage à domicile sur la côte kabyle : au défilement, une raclette nettoie la vitre.
 - **[Atelier Nacre](https://github.com/hoshuko/atelier-nacre/blob/main/README.fr.md)**: Le site d’un atelier de prothésiste ongulaire à Bordeaux : une pose démontée couche par couche, un essayage de couleur et la réservation en ligne.
+- **[Tiziri](https://github.com/hoshuko/tiziri/blob/main/README.fr.md)**: La garde-robe d’une boutique de vêtements en ligne : chaque pièce, photographiée en magasin, est portée par un mannequin en bois qui prend vie.
 
 Portfolio: <https://hoshuko.github.io/> · YouTube: <https://www.youtube.com/@Hosh-uko>
